@@ -1,0 +1,39 @@
+.nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+.inline-block {
+    padding: 15px;
+    display: inline-block;
+    width:80px;
+    background-color: darkgrey;
+    text-align: center;
+  }
+  .leftsection{
+   float: left;
+   height: 800px;
+  background-color: lightblue;
+   width: 29%;
+   text-align: center;
+    }
+    .container{
+      left:0;
+      right:0;
+      height: 250px;
+      padding: 15px;
+      background-color: orange;
+    }
+    .container2{
+      left:0;
+      right:0;
+      padding: 15px;
+      height: 550px;
+      background-color: darkorange;
+    }
+ .rightsection{
+   float: right;
+   height: 800px;
+  background-color: darkblue;
+   width: 71%;
+   text-align: center;
+    }
